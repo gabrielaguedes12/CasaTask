@@ -1,0 +1,6 @@
+#Arquivo	Responsabilidade
+database.py	Como conectar no banco
+models.py	Como os dados são guardados (estrutura das tabelas)
+schemas.py	Como os dados entram/saem da API (validação)
+routers/*.py	O quê a API faz (as regras de negócio, os endpoints)
+main.py	Junta tudo e liga o servidor
