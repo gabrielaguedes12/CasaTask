@@ -2,8 +2,8 @@
 
 Sistema de organização de tarefas domésticas para famílias, com lógica de rodízio automático e ranking de participação. Primeiro projeto de uma trilha de três aplicações voltadas para consolidar fundamentos de Python, SQL e arquitetura de APIs — evoluindo em complexidade a cada etapa.
 
-> **Trilha de projetos:** CasaTask (básico) → App de Planejamento de Casamento (intermediário) → Sistema de Gestão para Marmitaria (avançado)
-
+> **Trilha de projetos:** CasaTask (básico)
+> 
 ## O problema
 
 Dividir tarefas domésticas de forma justa entre os moradores de uma casa é algo que normalmente é feito de cabeça, sem histórico e sem transparência — o que gera a sensação recorrente de "eu sempre faço mais". O CasaTask resolve isso guardando um histórico real de quem fez o quê e quando, permitindo visualizar a distribuição de esforço ao longo do tempo.
