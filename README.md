@@ -134,7 +134,3 @@ A API estará disponível em ``, e a documentação interativa em ``.
 - Como escrever agregações SQL (JOIN + GROUP BY) tanto via ORM quanto em SQL puro
 - Fundamentos de API REST: verbos HTTP, status codes, e o ciclo completo de uma requisição
 
-## Próximos passos da trilha
-
-- **Projeto 2 (intermediário):** App de planejamento de casamento — introduz modelagem mais complexa (orçamento, fornecedores, convidados), relatórios financeiros e views SQL
-- **Projeto 3 (avançado):** Sistema de gestão para uma marmitaria real — introduz controle de estoque, precificação, previsão de demanda e um caso de uso de negócio real em produção
